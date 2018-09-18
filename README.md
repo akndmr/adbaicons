@@ -28,7 +28,7 @@
 <ul style="list-style-type: circle;">
 <li>Once you give credits, add a comment to your issue to update us about it.</li>
 </ul>
-<p style="padding-left: 30px;"><img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/credits_given_comment.PNG" alt="Credits given comment" width="315" height="115" /></p>
+<p style="padding-left: 30px;"><img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/credits_given_comment.PNG" alt="Credits given comment"/></p>
 <ul style="list-style-type: circle;">
 <li>We will check and confirm it. Then update&nbsp;<img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/label_not_credited_yet.PNG" alt="" width="103" height="27" /> flag as&nbsp;<img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/label_credited.PNG" alt="" width="71" height="28" />.</li>
 </ul>
