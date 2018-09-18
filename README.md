@@ -21,7 +21,9 @@
 <li>Your icon request will be flagged as&nbsp;<img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/label_not_credited_yet.PNG" alt="" width="103" height="27" />&nbsp;.</li>
 <li>You're expected to <span style="text-decoration: underline;">give credits to AdbA Icons</span> in your repository's <strong>README.md</strong> file <em>(and would be nice if you also give credits in your app's About/Credits screen/page)</em> of your application as follows:</li>
 </ul>
-<p style="padding-left: 60px;"><span style="color: #808080;"> > Icons used for this project provided by&nbsp;<a style="color: #808080;" href="https://github.com/akndmr/adbaicons">AdbA Icons</a>.</span></p>
+<blockquote>
+<p style="padding-left: 60px;"><span style="color: #808080;">Icons used for this project provided by&nbsp;<a style="color: #808080;" href="https://github.com/akndmr/adbaicons">AdbA Icons</a>.</span></p>
+</blockquote>
 <p style="padding-left: 60px;"><span style="color: #808080;"><img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/icon_credit.PNG" alt="Icon credits" width="440" height="120" /></span></p>
 <ul style="list-style-type: circle;">
 <li>Once you give credits, add a comment to your issue to update us about it.</li>
