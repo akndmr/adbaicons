@@ -3,7 +3,7 @@
 <p>Run by <a href="https://thenounproject.com/adbaicons/">AdbA Icons</a></p>
 <h2 style="color: #2e6c80;"><span style="color: #333333;"><img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/adbaicons_cover.png" alt="" width="500" height="284" /></span></h2>
 <h2>Intro</h2>
-<p>Go to <a href="https://thenounproject.com/adbaicons">AdbA Icons Noun Project profile</a> and select <span style="text-decoration: underline;">maximum 5 icons</span> that you need for your Open Source Project within around <strong>1300 icons</strong>. Open the icon you like in the new tab and get the icon name and id from url.</p>
+<p>Go to <a href="https://thenounproject.com/adbaicons">AdbA Icons Noun Project profile</a> and select <span style="text-decoration: underline;">maximum <strike>5</strike> 10 icons</span> that you need for your Open Source Project within around <strong>1300 icons</strong>. Open the icon you like in the new tab and get the icon name and id from url.</p>
 <p><img src="https://raw.githubusercontent.com/akndmr/adbaicons/master/img/icon_name_and_id.PNG" alt="Icon URL" width="501" height="95" /></p>
 <p>Then read below to learn about how to request an icon.</p>
 <p>&nbsp;</p>
